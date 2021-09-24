@@ -1,1 +1,1 @@
-# [Random-Quote-Machine] (https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+# [Random-Quote-Machine] (https://jaron-corapi.github.io/Random-Quote-Machine/)
