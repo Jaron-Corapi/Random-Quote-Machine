@@ -1,1 +1,1 @@
-## [Random Quote Machine](https://jaron-corapi.github.io/Random-Quote-Machine/)
+## [Random Quote Machine](https://jaron-corapi.github.io/Random-Quote-Machine/Random_Quote_Machine.html)
