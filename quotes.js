@@ -65,9 +65,6 @@ const QUOTES = [
         quote: "The most common way people give up their power is by thinking they don’t have any.",
 	author: "Alice Walker"},
     {
-        quote: "The mind is everything. What you think you become.",
-	author: "Buddha"},
-    {
         quote: "The best time to plant a tree was 20 years ago. The second best time is now.",
 	author: "Chinese Proverb"},
     {
@@ -176,9 +173,6 @@ const QUOTES = [
         quote: "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
 	author: "Maya Angelou"},
     {
-        quote: "Happiness is not something readymade.  It comes from your own actions.",
-	author: "Dalai Lama"},
-    {
         quote: "If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.",
 	author: "Sheryl Sandberg"},
     {
@@ -265,9 +259,6 @@ const QUOTES = [
     {
         quote: "If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.",
 	author: "Oprah Winfrey"},
-    {
-        quote: "Remember that not getting what you want is sometimes a wonderful stroke of luck.",
-	author: "Dalai Lama"},
     {
         quote: "You can’t use up creativity.  The more you use, the more you have.",
 	author: "Maya Angelou"},
