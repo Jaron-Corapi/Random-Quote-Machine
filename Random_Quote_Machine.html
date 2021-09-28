@@ -34,12 +34,29 @@
 
 </head>
 <body>
-    <wrapper id="quote-box">
-        <div id="text"></div>
-        <div id="author"></div>
-        <button id="new-quote" class="btn btn-success" onClick="generateQuote();">New Quote</button>
-        <a href="twitter.com/intent/tweet" id="tweet-quote" class="btn btn-primary" target="_blank">Tweet Quote</a>
+    <div class="container">
+        <div class="row py-5">
+            <div class="col-md-8 offset-md-2">
+                <wrapper id="quote-box">
+                <div class="card">
+                <div class="card-header">
+                    Random Quote Machine
+                </div>
+                <div class="card-body">
+                <h5 class="card-title">
+                <div id="text"></div>
+                </h5>
+                <p class="card-text">
+                <div id="author"></div>
+                </p>
+                <button id="new-quote" class="btn btn-success" onClick="generateQuote();">New Quote</button>
+                <a href="twitter.com/intent/tweet" id="tweet-quote" class="btn btn-primary" target="_blank">Tweet Quote</a>
+            </div>
+        </div>
     </wrapper>
+</div>
+</div>
+</div>
     <h1></h1>
     <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
 
